@@ -2,3 +2,4 @@ streamlit
 pandas
 PyPDF2
 docx2txt
+word2number

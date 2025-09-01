@@ -1,40 +1,31 @@
 {
   "must_have": [
-    "Selenium",
-    "API Testing",
-    "JIRA",
-    "Postman",
-    "Test Case Design",
-    "Bug Tracking",
-    "Agile",
-    "Cypress"
+    "Test Cases", "Bug Reporting", "Manual Testing", "Test Plan","Test Plans", "Bug Lifecycle"
   ],
   "good_to_have": [
-    "Playwright",
-    "Performance Testing",
-    "SQL",
-    "Docker",
-    "CI/CD",
-    "TestNG",
-    "pytest",
-    "Java",
-    "Python"
+    "PyTest","Selenium","Cucumber",
+    "API Testing", "Postman", "Agile", "Kanban", "CI/CD","Cypress","Playwright","Automation Testing"
+    ,"Data Driven Testing","VsCode","Python","Java","SQL","Jira","Git","Agile","Scrum","Kanban",
+    "CI/CD","Cypress","Playwright","Automation Testing","Data Driven Testing","VsCode",
+    "Python","Java","SQL","Jira","GIT"
+
   ],
   "must_not_have": [
-    "manual only", "no automation", "mainframe testing"
+    "no qa experience", "fake project"
   ],
   "preferred_tools": [
-    "Allure", "Git", "Jenkins", "Maven"
+    "JIRA", "Git", "Selenium", "Python"
   ],
   "certifications": [
-    "ISTQB", "CSTE", "CSQA"
+    "ISTQB", "Certified Tester"
   ],
   "domain_keywords": [
-    "fintech", "healthcare", "e-commerce"
+    "Agile", "Scrum", "Kanban"
   ],
-  "required_tools_count": 6,
-  "min_years_experience": 2,
-  "min_education_keywords": ["bachelor", "engineering", "computer science"],
-  "education_level": "Bachelor's",
+  "min_years_experience": 1,
+  "education_level": "bachelor",
+  "min_education_keywords": [
+    "bsc", "bachelor of technology", "computer science"
+  ],
   "min_total_score": 60
 }
